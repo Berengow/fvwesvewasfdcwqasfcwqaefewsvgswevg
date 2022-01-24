@@ -1,0 +1,22 @@
+.aframebox {
+    height: 80vh;
+    width: 100vw;
+    }
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+.bar{
+    display: flex;
+	flex-wrap: wrap;
+    width: 100vw;
+
+	max-width: 700px; /* макс ширина */
+	margin: 0 auto; /* выровняем по центру */
+    justify-content:space-between;
+
+}
+p{
+    padding:  1vh;
+}
